@@ -21,7 +21,7 @@ PassengerId;Pclass;Name;Sex;Age;SibSp;Parch;Ticket;Fare;Cabin;Embarked;Family Si
 20;3;Masselmani, Mrs. Fatima;female;;0;0;2649;7,225;;C;1;Cherbourg, France;0;Minimum;1;0-15;Bridge unknown;TRUE
 21;2;Fynney, Mr. Joseph J;male;35;0;0;239865;26;;S;1;Southampton, UK;14,4542;2;0;31-45;Bridge unknown;FALSE
 22;2;Beesley, Mr. Lawrence;male;34;0;0;248698;13;D56;S;1;Southampton, UK;7,8958;1;1;31-45;Bridge D;TRUE
-23;3;"McGowan, Miss. Anna ""Annie""";female;15;0;0;330923;8,0292;;Q;1;Queenstown, UK;7,8958;1;1;0-15;Bridge unknown;TRUE
+23;3;"McGowan, Miss. Anna Annie";female;15;0;0;330923;8,0292;;Q;1;Queenstown, UK;7,8958;1;1;0-15;Bridge unknown;TRUE
 24;1;Sloper, Mr. William Thompson;male;28;0;0;113788;35,5;A6;S;1;Southampton, UK;31,275;3;1;16-30;Bridge A;TRUE
 25;3;Palsson, Miss. Torborg Danira;female;8;3;1;349909;21,075;;S;5;Southampton, UK;14,4542;2;0;0-15;Bridge unknown;FALSE
 26;3;Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson);female;38;1;5;347077;31,3875;;S;7;Southampton, UK;31,275;3;1;31-45;Bridge unknown;TRUE
